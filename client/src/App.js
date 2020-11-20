@@ -9,7 +9,6 @@ function App() {
           <h1>Home</h1>
         </Tab>
         <Tab eventKey="profile" title="Drug Search">
-          <h1>Drug Search</h1>
           <DrugSearch />
         </Tab>
         <Tab eventKey="contact" title="Contact">
