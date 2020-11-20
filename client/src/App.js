@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Tabs, Tab } from "react-bootstrap";
+import DrugSearch from "./components/DrugSearch";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+        <Tab eventKey="home" title="Home">
+          <h1>Home</h1>
+        </Tab>
+        <Tab eventKey="profile" title="Drug Search">
+          <h1>Drug Search</h1>
+          <DrugSearch />
+        </Tab>
+        <Tab eventKey="contact" title="Contact">
+          <h1>Contact</h1>
+        </Tab>
+      </Tabs>
     </div>
   );
 }
