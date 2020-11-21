@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FDA-Search-App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FDA-Search-App/static/js/main.4b4c1d1c.chunk.js",
+    "main.js.map": "/FDA-Search-App/static/js/main.4b4c1d1c.chunk.js.map",
+    "runtime-main.js": "/FDA-Search-App/static/js/runtime-main.5a76273f.js",
+    "runtime-main.js.map": "/FDA-Search-App/static/js/runtime-main.5a76273f.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/FDA-Search-App/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c1c8e9e4.chunk.js": "/FDA-Search-App/static/js/2.c1c8e9e4.chunk.js",
+    "static/js/2.c1c8e9e4.chunk.js.map": "/FDA-Search-App/static/js/2.c1c8e9e4.chunk.js.map",
+    "static/js/3.38f8d9ca.chunk.js": "/FDA-Search-App/static/js/3.38f8d9ca.chunk.js",
+    "static/js/3.38f8d9ca.chunk.js.map": "/FDA-Search-App/static/js/3.38f8d9ca.chunk.js.map",
+    "index.html": "/FDA-Search-App/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/FDA-Search-App/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/FDA-Search-App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c1c8e9e4.chunk.js.LICENSE.txt": "/FDA-Search-App/static/js/2.c1c8e9e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a76273f.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c1c8e9e4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4b4c1d1c.chunk.js"
+  ]
+}
